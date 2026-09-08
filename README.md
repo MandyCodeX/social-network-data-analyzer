@@ -223,7 +223,7 @@ Graph-style traversal
 Recommendation logic
 Jupyter Notebook workflows
 
-#🔮 Future Improvements
+# 🔮 Future Improvements  
 Possible improvements include:
 Add page recommendation based on liked pages
 Build interactive network visualizations
@@ -236,13 +236,15 @@ Add unit tests
 Support larger datasets
 Improve recommendation ranking using multiple signals
 
-#📌 Key Takeaway
+# 📌 Key Takeaway  
 This project demonstrates how Python can be used to transform raw social-network data into meaningful insights.
 It combines data loading, data cleaning, relationship analysis, and recommendation logic into a practical social-network analytics workflow.
 
-#👨‍💻 Author
-Mandeep Samrat
+# 👨‍💻 Author  
+Mandeep Kumar 
 
-⭐ Project
+
+
+
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
