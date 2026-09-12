@@ -244,7 +244,3 @@ It combines data loading, data cleaning, relationship analysis, and recommendati
 Mandeep Kumar 
 
 
-
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
-
